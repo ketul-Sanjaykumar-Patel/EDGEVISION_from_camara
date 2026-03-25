@@ -245,13 +245,6 @@ edgevision/
 **Ketul Patel**
 Embedded Systems | Computer Vision | Robotics
 
----
-
-## 📜 License
-
-MIT License (or choose your preferred license)
-
----
 
 ## ⭐ Support
 
